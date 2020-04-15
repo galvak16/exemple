@@ -1,0 +1,127 @@
+﻿header, main, footer, nav, section, table {
+    display: block;
+}
+
+body {
+    background: #171932;
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+}
+
+h2 {
+    display: inline;
+    padding-left: 20px;
+    color: white;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+.fas.fa-plane-departure {
+    font-size: 48px;
+    color: rebeccapurple;
+}
+
+td:nth-child(2) img {
+    height: 200px;
+}
+
+img {
+    height: 150px;
+}
+
+section p {
+    color: white;
+    font-size: 30px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+p span {
+    color: gray;
+    font-size: 15px;
+}
+
+li {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+ul {
+    list-style-type: none;
+    width: 100%;
+    padding-left: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.withIcon {
+    display: block;
+}
+
+.fa-apple-alt {
+    color: red;
+    font-size: 25px;
+}
+
+.sp {
+    color: white;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.samesection {
+    height: 250px;
+    width: 400px;
+    color: white;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+
+.fa.fa-instagram {
+    background: #125688;
+    color: white;
+}
